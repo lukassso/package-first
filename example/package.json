@@ -1,7 +1,7 @@
 {
-  "name": "library-react-2-example",
+  "name": "library-react-button-mui",
   "homepage": "https://lukassso.github.io/library-react-2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "private": true,
   "dependencies": {

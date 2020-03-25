@@ -1,12 +1,11 @@
 import React, { Component } from 'react'
-
-import ExampleComponent from 'library-react-2'
+import ButtonUI from 'library-react-2'
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <ButtonUI text='Test Button' />
       </div>
     )
   }
